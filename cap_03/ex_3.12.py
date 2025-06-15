@@ -7,4 +7,7 @@ Exercício
 
 '''
 
-distancia = float(input())
+distancia = float(input('Qual a distância a percorrer em km? '))
+velocidade = float(input('Qual a velocidade média esperada para a viagem em km/h? '))
+tempo = distancia / velocidade
+print(f'O tempo estimado para a viagem é de {tempo:.2f} horas.')
