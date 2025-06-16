@@ -52,3 +52,7 @@ Introdução à linguagem SQL e ao banco de dados SQLite.
 
 Capítulo final, que lista os próximos passos em diversos tópicos, como jogos, sistemas web, programação funcional, interfaces gráficas e
 bancos de dados. Visa a apresentar livros e projetos open source pelos quais o aluno pode continuar estudando, dependendo de sua área de interesse.
+
+
+PARA DESATIVAR O AUTOCOMPLETE
+editor.suggestOnTriggerCharacters
