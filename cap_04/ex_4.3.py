@@ -10,7 +10,7 @@ num_01 = int(input('Digite um dúmero: '))
 num_02 = int(input('Digite outro número: '))
 num_03 = int(input('Digite mais um número: '))
 
-'''
+
 
 # Alternativa usando condicionais aninhados
 
@@ -28,7 +28,7 @@ else:
     menor = num_03
 print(f'O maior número é {maior} e o menor é {menor}.')
 
-'''
+
 
 # Alternativa usando a função max() e min()
 
