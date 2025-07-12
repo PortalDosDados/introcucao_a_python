@@ -19,7 +19,7 @@ renda = float(input('Qual sua renda atual? '))
 
 qtd_parcelas_anos = int(input('Em quantos anos você gostaria de pagar? '))
 
-qtd_parcelas_meses = qtd_parcelas_anos / 12
+qtd_parcelas_meses = qtd_parcelas_anos * 12
 
 valor_prestação = valor_casa / qtd_parcelas_meses
 
