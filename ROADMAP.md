@@ -13,7 +13,7 @@ Este documento orienta a estratégia de desenvolvimento, geração e controle de
 | **Capítulo 03** | Variáveis e Entrada de Dados | Concluído | `ex_3.01` a `ex_3.15` |
 | **Capítulo 04** | Condições | Concluído | `ex_4.01` a `ex_4.10` |
 | **Capítulo 05** | Repetições | **Concluído** | `ex_5.1` a `ex_5.27` |
-| **Capítulo 06** | Listas, Dicionários, Tuplas e Conjuntos | **Pendente** | `ex_6.01` a `ex_6.20` |
+| **Capítulo 06** | Listas, Dicionários, Tuplas e Conjuntos | **Concluído** | `ex_6.1` a `ex_6.20` |
 | **Capítulo 07** | Trabalhando com Strings | **Pendente** | `ex_7.01` a `ex_7.10` |
 | **Capítulo 08** | Funções | **Pendente** | `ex_8.01` a `ex_8.15` |
 | **Capítulo 09** | Arquivos | **Pendente** | `ex_9.01` a `ex_9.36` |
