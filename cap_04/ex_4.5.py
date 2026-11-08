@@ -1,6 +1,6 @@
-num1 = int(input('Digite o primeiro número: '))
-num2 = int(input('Digite o segundo número: '))
-num3 = int(input('Digite o terceiro número: '))
+num1 = int(input("Digite o primeiro número: "))
+num2 = int(input("Digite o segundo número: "))
+num3 = int(input("Digite o terceiro número: "))
 
 # Inicializa com o primeiro número
 maior = num1
@@ -18,4 +18,4 @@ if num2 < menor:
 if num3 < menor:
     menor = num3
 
-print(f'O maior número é {maior} e o menor número é {menor}.')
+print(f"O maior número é {maior} e o menor número é {menor}.")
