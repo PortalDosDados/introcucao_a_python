@@ -17,7 +17,7 @@ Este documento orienta a estratégia de desenvolvimento, geração e controle de
 | **Capítulo 07** | Trabalhando com Strings | **Concluído** | `ex_7.1` a `ex_7.10` |
 | **Capítulo 08** | Funções | **Concluído** | `ex_8.1` a `ex_8.15` |
 | **Capítulo 09** | Arquivos | **Concluído** | `ex_9.1` a `ex_9.36` |
-| **Capítulo 10** | Classes e Objetos | **Pendente** | `ex_10.01` a `ex_10.12` |
+| **Capítulo 10** | Classes e Objetos | **Concluído** | `ex_10.1` a `ex_10.12` |
 | **Capítulo 11** | Banco de Dados (SQLite) | **Pendente** | `ex_11.01` a `ex_11.06` |
 
 ---
