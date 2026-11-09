@@ -8,7 +8,7 @@ Repositório criado durante a leitura e aplicação do livro *Introdução à Pr
 
 - **Título:** [Lógica de Programação (60h) — Dione Nascimento](https://docs.google.com/presentation/d/1-5NEhYqEwXBsx1_5OaEFxMLlyY551oOLO40oIiJffW8/edit?usp=drivesdk)
 - **ID da Apresentação:** `1-5NEhYqEwXBsx1_5OaEFxMLlyY551oOLO40oIiJffW8`
-- **Total de Slides:** 90 slides (Fundamentação formal de Manzano, Python prático de Nilo Coutinho e Projetos Integradores em Equipes).
+- **Total de Slides:** 95 slides (Fundamentação formal de Manzano com cálculos binários detalhados, Python prático de Nilo Coutinho e Projetos Integradores em Equipes).
 
 ---
 
@@ -63,6 +63,10 @@ Introdução à linguagem SQL e ao banco de dados SQLite.
 
 ### Capítulo 12 ■ Próximos passos
 Capítulo final, que lista os próximos passos em diversos tópicos, como jogos, sistemas web, programação funcional, interfaces gráficas e bancos de dados. Visa a apresentar livros e projetos open source pelos quais o aluno pode continuar estudando, dependendo de sua área de interesse.
+
+### 🌟 Módulo Bônus ■ Test-Driven Development (TDD) Passo a Passo
+Guia prático e suíte completa demonstrando o ciclo **Red-Green-Refactor**, o padrão **AAA (Arrange, Act, Assert)** e a analogia com **PDCA/Controle de Qualidade Industrial**, aplicando testes unitários e regras de negócio na classe `ContaBancaria`.
+👉 **[Acessar Módulo Bônus TDD (modulo_bonus_tdd/)](file:///c:/Users/dione/.gemini/antigravity/scratch/introcucao_a_python/modulo_bonus_tdd/README.md)**
 
 ---
 
