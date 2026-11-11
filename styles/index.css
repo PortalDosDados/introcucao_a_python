@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --senai-navy: #1a237e;
+  --senai-indigo: #3949ab;
+  --senai-muted: #5c6bc0;
+  --senai-slate: #37474f;
+  --senai-footer: #546e7a;
+}
+
+.slidev-layout {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #ffffff;
+  color: #1e293b;
+  padding: 1.5rem 2.25rem 2.75rem 2.25rem !important;
+  overflow: hidden;
+}
+
+.slidev-layout.cover,
+.slidev-layout.section,
+.slidev-layout.center {
+  padding: 2.25rem 3rem !important;
+}
+
+.slidev-layout h1 {
+  color: var(--senai-navy);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.slidev-layout code,
+.slidev-layout pre,
+.slidev-layout .font-mono {
+  font-family: 'JetBrains Mono', 'Consolas', monospace !important;
+}
+
+/* Shiki / Code blocks compact & crisp */
+.slidev-code-wrapper,
+.slidev-layout pre.shiki {
+  border-radius: 8px !important;
+  font-size: 0.74rem !important;
+  line-height: 1.38 !important;
+  margin: 0.25rem 0 !important;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.08);
+}
+
+.compact-code .slidev-layout pre.shiki,
+.compact-code pre.shiki {
+  font-size: 0.68rem !important;
+  line-height: 1.32 !important;
+}
+
+.slidev-layout table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.76rem;
+}
+
+.slidev-layout th {
+  background-color: #1a237e;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: left;
+  padding: 0.4rem 0.6rem;
+}
+
+.slidev-layout td {
+  padding: 0.35rem 0.6rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.slidev-layout tr:nth-child(even) td {
+  background-color: #f8fafc;
+}
+
+.senai-footer-tip {
+  margin-top: auto;
+  padding-top: 0.45rem;
+  font-size: 0.76rem;
+  font-style: italic;
+  color: var(--senai-footer);
+  border-top: 1px dashed #cbd5e1;
+}
+
+/* Dark/navy cover or section slides */
+.slide-cover-navy {
+  background: linear-gradient(135deg, #0d1642 0%, #1a237e 55%, #283593 100%) !important;
+  color: #ffffff !important;
+}
+
+.slide-section-light {
+  border-left: 14px solid #1a237e;
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+}

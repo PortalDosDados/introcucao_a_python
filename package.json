@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Conjunto de slides interativos para o livro Introdução à Programação com Python usando Slidev",
   "scripts": {
+    "slides": "slidev slides.md --open",
+    "build": "slidev build slides.md",
+    "export": "slidev export slides.md --format pdf",
     "slides:01": "slidev cap_01/slides.md --open",
     "slides:02": "slidev cap_02/slides.md --open",
     "slides:03": "slidev cap_03/slides.md --open",
