@@ -4,3 +4,9 @@
 # () é usado para passar argumentos para a função
 
 print("Olá mundo")
+
+A = 50
+
+A = 100
+
+print("O valor de A é:",A)
